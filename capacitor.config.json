@@ -1,0 +1,8 @@
+{
+  "appId": "com.holloram.app",
+  "appName": "HollOram",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
